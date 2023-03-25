@@ -1,2 +1,2 @@
 # Cpp-Laboratory
-This tutorial for Cpp training course
+This project is for testing new technology ideas with C++
