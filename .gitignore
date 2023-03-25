@@ -1,3 +1,11 @@
+# Visual Studio 2015 user specific files
+.vs/
+.vscode/
+x64/
+x86/
+CppLaboratory/x64/
+CppLaboratory/x86/
+
 # Prerequisites
 *.d
 
