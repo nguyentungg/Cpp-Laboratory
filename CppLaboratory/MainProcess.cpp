@@ -1,14 +1,15 @@
 #include <iostream>
 #include "LoopTesting.cpp"
 #include "ReferenceTesting.cpp"
+#include "Overloading.cpp"
 using namespace std;
 
 
 int main() {
 
-	ReferenceTest rt;
+	Overloading ovl;
 
-	rt.ReferenceLab();
+	ovl.OverloadingFunc();
 
 
 	system("pause");
