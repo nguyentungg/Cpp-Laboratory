@@ -9,12 +9,12 @@ void printResponse(char responseToPrint);
 void AskYesOrNoQuestion();
 
 
-int main() {
-	
-	AskYesOrNoQuestion();
-	
-	system("pause");
-}
+//int main() {
+//	
+//	AskYesOrNoQuestion();
+//	
+//	system("pause");
+//}
 
 void welcome() {
 	cout << "Welcome!\n";
