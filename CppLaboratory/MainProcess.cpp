@@ -1,15 +1,14 @@
 #include <iostream>
-#include "LoopTesting.cpp"
-#include "ReferenceTesting.cpp"
-#include "Overloading.cpp"
+#include "StringDS.cpp"
+
 using namespace std;
 
 
 int main() {
 
-	Overloading ovl;
+	StringTest st;
 
-	ovl.OverloadingFunc();
+	st.StringFunction();
 
 
 	system("pause");
