@@ -1,14 +1,15 @@
 #include <iostream>
 #include "StringDS.cpp"
+#include "ReferenceTesting.cpp"
 
 using namespace std;
 
 
 int main() {
 
-	StringTest st;
+	ReferenceTest rt;
 
-	st.StringFunction();
+	rt.ReferenceLab();
 
 
 	system("pause");
