@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="LoopTesting.cpp" />
     <ClCompile Include="MainProcess.cpp" />
+    <ClCompile Include="ReferenceTesting.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -1,4 +1,4 @@
-#include<iostream>;
+#include<iostream>
 using namespace std;
 
 // This is call function prototype, Because main() function call function before the function itself was define. 
@@ -7,7 +7,6 @@ void welcome();
 char getYesNo();
 void printResponse(char responseToPrint);
 void AskYesOrNoQuestion();
-
 
 //int main() {
 //	

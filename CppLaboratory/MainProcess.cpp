@@ -1,12 +1,14 @@
 #include <iostream>
 #include "LoopTesting.cpp"
+#include "ReferenceTesting.cpp"
 using namespace std;
 
 
 int main() {
-	LoopTesting lt;
 
-	lt.DoWhiteLoop();
+	ReferenceTest rt;
+
+	rt.ReferenceLab();
 
 
 	system("pause");
