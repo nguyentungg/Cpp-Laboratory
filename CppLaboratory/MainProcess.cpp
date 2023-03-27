@@ -1,15 +1,16 @@
 #include <iostream>
 #include "StringDS.cpp"
 #include "ReferenceTesting.cpp"
+#include "SwitchCase.cpp"
 
 using namespace std;
 
 
 int main() {
 
-	ReferenceTest rt;
+	SwitchCaseInGame scig;
 
-	rt.ReferenceLab();
+	scig.SwitchCaseMain();
 
 
 	system("pause");
