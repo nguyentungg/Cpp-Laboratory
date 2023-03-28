@@ -6,12 +6,12 @@
 using namespace std;
 
 
-int main() {
-
-	SwitchCaseInGame scig;
-
-	scig.SwitchCaseMain();
-
-
-	system("pause");
-}
+//int main() {
+//
+//	SwitchCaseInGame scig;
+//
+//	scig.SwitchCaseMain();
+//
+//
+//	system("pause");
+//}

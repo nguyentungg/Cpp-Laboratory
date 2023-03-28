@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\OOP">
+      <UniqueIdentifier>{193c58f8-1d70-4c24-9102-f9002b34967d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp">
@@ -35,6 +38,15 @@
     </ClCompile>
     <ClCompile Include="SwitchCase.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StrucDS.cpp">
+      <Filter>Source Files\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer.cpp">
+      <Filter>Source Files\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="StructPointer.cpp">
+      <Filter>Source Files\OOP</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
