@@ -127,8 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ConstructorAndStruct.cpp" />
     <ClCompile Include="LoopTesting.cpp" />
     <ClCompile Include="MainProcess.cpp" />
+    <ClCompile Include="ConstructorAndClasses.cpp" />
     <ClCompile Include="Overloading.cpp" />
     <ClCompile Include="Pointer.cpp" />
     <ClCompile Include="ReferenceTesting.cpp" />

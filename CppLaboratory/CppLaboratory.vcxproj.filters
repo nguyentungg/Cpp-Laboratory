@@ -48,5 +48,11 @@
     <ClCompile Include="StructPointer.cpp">
       <Filter>Source Files\OOP</Filter>
     </ClCompile>
+    <ClCompile Include="ConstructorAndClasses.cpp">
+      <Filter>Source Files\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="ConstructorAndStruct.cpp">
+      <Filter>Source Files\OOP</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

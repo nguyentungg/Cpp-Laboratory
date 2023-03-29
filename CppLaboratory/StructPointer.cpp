@@ -11,12 +11,12 @@ struct Container {
 
 };
 
-int main() {
-	Container container = { "Sam", 5 , 6, 7 };
-	Container* PtrToCont = &container;
-	cout << (*PtrToCont).Name << endl; // Output: Sam
-	cout << (*PtrToCont).X << endl;	// Output: 5
-
-	cout << PtrToCont->Name << endl; // Output: Sam
-	cout << PtrToCont->X << endl; // Output: 5
-}
+//int main() {
+//	Container container = { "Sam", 5 , 6, 7 };
+//	Container* PtrToCont = &container;
+//	cout << (*PtrToCont).Name << endl; // Output: Sam
+//	cout << (*PtrToCont).X << endl;	// Output: 5
+//
+//	cout << PtrToCont->Name << endl; // Output: Sam
+//	cout << PtrToCont->X << endl; // Output: 5
+//}
