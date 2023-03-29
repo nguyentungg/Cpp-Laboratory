@@ -54,5 +54,8 @@
     <ClCompile Include="ConstructorAndStruct.cpp">
       <Filter>Source Files\OOP</Filter>
     </ClCompile>
+    <ClCompile Include="Inheritance.cpp">
+      <Filter>Source Files\OOP</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

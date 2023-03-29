@@ -22,10 +22,10 @@ void Cat::Meow() {
 	cout << "My Health is : " << Health << ".\n";
 }
 
-int main() {
-	Cat cat;
-
-	cat.Age += 5;
-
-	system("pause");
-}
+//int main() {
+//	Cat cat;
+//
+//	cat.Age += 5;
+//
+//	system("pause");
+//}
