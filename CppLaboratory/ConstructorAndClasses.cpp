@@ -1,11 +1,11 @@
 #include <iostream>
 
 using namespace std;
-class Dog {
+class DogCons {
 
 public:
 
-	/*Dog() {
+	/*DogCons() {
 		Bark();
 
 		Name = "Default Name";
@@ -15,7 +15,7 @@ public:
 		cout << Name << endl;
 	}*/
 
-	Dog();
+	DogCons();
 
 	string Name;
 	int Age;
@@ -35,7 +35,7 @@ public:
 //	system("pause");
 //}
 
-Dog::Dog(){
+DogCons::DogCons(){
 	Bark();
 
 	Name = "Default Name";
@@ -44,7 +44,7 @@ Dog::Dog(){
 	cout << Name << endl;
 }
 
-void Dog::Bark() {
+void DogCons::Bark() {
 	cout << "Meow" << endl;
 }
 
