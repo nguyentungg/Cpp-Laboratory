@@ -30,28 +30,28 @@ public:
 };
 
 
-int main() {
-	/*Animal animal;
-
-	animal.Report();
-
-	Animal animal_2("Cheetah", 7, 5);
-
-	animal_2.Report();*/
-
-	//Dog dog("Mina", 7, 5);
-
-	//dog.Speak();
-
-	Corgi corgi;
-	//Corgi corgi("Corgi Shoppe", 7, 5);
-
-	corgi.Speak();
-	//corgi.Report();
-
-	system("pause");
-
-}
+//int main() {
+//	/*Animal animal;
+//
+//	animal.Report();
+//
+//	Animal animal_2("Cheetah", 7, 5);
+//
+//	animal_2.Report();*/
+//
+//	//Dog dog("Mina", 7, 5);
+//
+//	//dog.Speak();
+//
+//	Corgi corgi;
+//	//Corgi corgi("Corgi Shoppe", 7, 5);
+//
+//	corgi.Speak();
+//	//corgi.Report();
+//
+//	system("pause");
+//
+//}
 
 Animal::Animal() {
 	cout << "-------------------------\n";

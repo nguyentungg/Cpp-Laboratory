@@ -57,5 +57,8 @@
     <ClCompile Include="Inheritance.cpp">
       <Filter>Source Files\OOP</Filter>
     </ClCompile>
+    <ClCompile Include="Encapsulation.cpp">
+      <Filter>Source Files\OOP</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
