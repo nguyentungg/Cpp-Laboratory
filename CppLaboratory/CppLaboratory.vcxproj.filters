@@ -60,5 +60,8 @@
     <ClCompile Include="Encapsulation.cpp">
       <Filter>Source Files\OOP</Filter>
     </ClCompile>
+    <ClCompile Include="StackAndHeap.cpp">
+      <Filter>Source Files\OOP</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

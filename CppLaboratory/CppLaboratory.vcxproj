@@ -137,6 +137,7 @@
     <ClCompile Include="Pointer.cpp" />
     <ClCompile Include="ReferenceTesting.cpp" />
     <ClCompile Include="Source.cpp" />
+    <ClCompile Include="StackAndHeap.cpp" />
     <ClCompile Include="StringDS.cpp" />
     <ClCompile Include="StrucDS.cpp" />
     <ClCompile Include="StructPointer.cpp" />

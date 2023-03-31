@@ -29,24 +29,24 @@ public:
 
 	int GetNumberOfLimbs();
 };
-
-int main() {
-	/*Creature Igor;
-	Igor.SetName("Igor");
-
-	cout << "Name: " << Igor.GetName() << endl;
-	cout << "Health: " << Igor.GetHealth() << endl;
-
-	cout << "Igor will now take 35 damage!" << endl;
-
-	Igor.TakeDamage(35.0);*/
-
-	Goblin Gobby;
-	cout << Gobby.GetName() << endl;
-	cout << Gobby.GetNumberOfLimbs() << endl;
-
-	system("pause");
-}
+//
+//int main() {
+//	/*Creature Igor;
+//	Igor.SetName("Igor");
+//
+//	cout << "Name: " << Igor.GetName() << endl;
+//	cout << "Health: " << Igor.GetHealth() << endl;
+//
+//	cout << "Igor will now take 35 damage!" << endl;
+//
+//	Igor.TakeDamage(35.0);*/
+//
+//	Goblin Gobby;
+//	cout << Gobby.GetName() << endl;
+//	cout << Gobby.GetNumberOfLimbs() << endl;
+//
+//	system("pause");
+//}
 
 Creature::Creature()
 {
