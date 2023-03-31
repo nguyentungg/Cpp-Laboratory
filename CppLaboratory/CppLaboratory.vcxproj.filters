@@ -63,5 +63,8 @@
     <ClCompile Include="StackAndHeap.cpp">
       <Filter>Source Files\OOP</Filter>
     </ClCompile>
+    <ClCompile Include="Destructors.cpp">
+      <Filter>Source Files\OOP</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

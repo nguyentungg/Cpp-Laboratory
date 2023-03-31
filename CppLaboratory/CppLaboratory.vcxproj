@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Destructors.cpp" />
     <ClCompile Include="Encapsulation.cpp" />
     <ClCompile Include="ConstructorAndStruct.cpp" />
     <ClCompile Include="Inheritance.cpp" />
