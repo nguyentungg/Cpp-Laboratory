@@ -45,23 +45,23 @@ public:
 
 int Critter::CritterCount = 0;
 
-int main() {
-	/*AddToCount();
-	{ Item item; }*/
-
-	//Critter::CritterCount = 13;
-
-	//Critter crit;
-	//cout << Critter::CritterCount << endl;
-
-	//Critter crit2;
-	//cout << Critter::CritterCount << endl;
-
-	Critter::AnnounceCount();
-
-	Critter* crit = new Critter;
-	Critter::AnnounceCount();
-	delete crit;
-
-	system("pause"); 
-}
+//int main() {
+//	/*AddToCount();
+//	{ Item item; }*/
+//
+//	//Critter::CritterCount = 13;
+//
+//	//Critter crit;
+//	//cout << Critter::CritterCount << endl;
+//
+//	//Critter crit2;
+//	//cout << Critter::CritterCount << endl;
+//
+//	Critter::AnnounceCount();
+//
+//	Critter* crit = new Critter;
+//	Critter::AnnounceCount();
+//	delete crit;
+//
+//	system("pause"); 
+//}

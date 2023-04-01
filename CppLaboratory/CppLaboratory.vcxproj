@@ -144,6 +144,7 @@
     <ClCompile Include="StrucDS.cpp" />
     <ClCompile Include="StructPointer.cpp" />
     <ClCompile Include="SwitchCase.cpp" />
+    <ClCompile Include="VirtualAndOverriding.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
