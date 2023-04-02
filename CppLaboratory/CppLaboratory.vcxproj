@@ -136,6 +136,7 @@
     <ClCompile Include="ConstructorAndClasses.cpp" />
     <ClCompile Include="Overloading.cpp" />
     <ClCompile Include="Pointer.cpp" />
+    <ClCompile Include="Polymorphism.cpp" />
     <ClCompile Include="ReferenceTesting.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="StackAndHeap.cpp" />
