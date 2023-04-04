@@ -4,6 +4,9 @@ using namespace std;
 class Object {
 public:
 	virtual void BeginPlay();
+	void ObjectFunction() {
+		cout << "ObjectFunction() called.\n\n";
+	}
 };
 
 class Actor : public Object
@@ -34,7 +37,7 @@ int main() {
 	Object* ObjectArray[] = { ptr_to_object, ptr_to_actor, ptr_to_pawn };
 
 	for (int i = 0; i < 3; i++) {
-		ObjectArray[i]->BeginPlay();
+		//ObjectArray[i]->BeginPlay();
 
 		Object* obj = ObjectArray[i];
 
@@ -48,7 +51,7 @@ int main() {
 		Pawn* pwn = dynamic_cast<Pawn*>(obj);
 		//Pawn* pwn = static_cast<Pawn*>(obj);
 		if (pwn) {
-			pwn->ActorFunction();
+			pwn->PawnFunction();
 		}
 	}
 
