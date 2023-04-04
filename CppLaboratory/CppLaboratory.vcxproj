@@ -127,15 +127,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Actor.cpp" />
     <ClCompile Include="CastingAndConverion.cpp" />
     <ClCompile Include="Destructors.cpp" />
     <ClCompile Include="Encapsulation.cpp" />
     <ClCompile Include="ConstructorAndStruct.cpp" />
+    <ClCompile Include="HeaderFile.cpp" />
     <ClCompile Include="Inheritance.cpp" />
     <ClCompile Include="LoopTesting.cpp" />
     <ClCompile Include="MainProcess.cpp" />
     <ClCompile Include="ConstructorAndClasses.cpp" />
+    <ClCompile Include="Object.cpp" />
     <ClCompile Include="Overloading.cpp" />
+    <ClCompile Include="Pawn.cpp" />
     <ClCompile Include="Pointer.cpp" />
     <ClCompile Include="Polymorphism.cpp" />
     <ClCompile Include="ReferenceTesting.cpp" />
@@ -147,6 +151,11 @@
     <ClCompile Include="StructPointer.cpp" />
     <ClCompile Include="SwitchCase.cpp" />
     <ClCompile Include="VirtualAndOverriding.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Actor.h" />
+    <ClInclude Include="Object.h" />
+    <ClInclude Include="Pawn.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
